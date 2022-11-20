@@ -1,0 +1,7 @@
+# BOT-BLOGGER
+
+INI ADALAH BOT VIEW BLOG 
+SILAHKAN CLONE
+LALU SETTING URL BLOG YANG AKAN DI GUNAKAN DI BOT DI FILE url.xlsx
+bisa di jalankan lewat main.exe atau main.py nya
+
